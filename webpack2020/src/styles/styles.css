@@ -1,0 +1,19 @@
+@import "~normalize.css";
+
+.container {
+    padding-top: 2rem;
+    max-width: 1000px;
+    margin: 0 auto;
+}
+
+h1 {
+    text-align: center;
+}
+
+.logo {
+    background-image: url("../assets/image.png");
+    background-size: cover;
+    height: 500px;
+    width: 1000px;
+    margin: 0 auto;
+}

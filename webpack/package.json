@@ -1,0 +1,21 @@
+{
+  "name": "webformyself-webpack",
+  "version": "1.0.0",
+  "description": "webpack project",
+  "main": "index.js",
+  "scripts": {
+    "dev": "webpack --mode development",
+    "build": "webpack --mode production"
+  },
+  "keywords": [
+    "javascript",
+    "js",
+    "webpack"
+  ],
+  "author": "Efimova Alexandra",
+  "license": "ISC",
+  "devDependencies": {
+    "webpack": "^4.44.1",
+    "webpack-cli": "^3.3.12"
+  }
+}
